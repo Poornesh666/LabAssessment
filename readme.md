@@ -1,3 +1,4 @@
+Welcome to git
+Coming from dev-poo
 Hey guys welcome to git
-YOY! JSM HERE
 adding this from branch b1
